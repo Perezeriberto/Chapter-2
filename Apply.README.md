@@ -1,3 +1,4 @@
+DOCTYPE.html
 <!-- Eriberto Perez Cordero>:template.html 2/15/24
  <html lang="en" -->
 <head>
