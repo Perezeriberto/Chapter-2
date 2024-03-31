@@ -1,8 +1,8 @@
 DOCTYPE.html
-<!Eriberto Perez Cordero>:template.html 2/15/24
- <html lang="en">
+<!-- Eriberto Perez Cordero>:template.html 2/15/24
+ <html lang="en" -->
 <head>
-     <title>MY template</title\
+     <title>MY template</title>
      <meta charset="utf-8>
 </head>
 <body>
